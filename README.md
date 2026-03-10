@@ -15,6 +15,7 @@ O objetivo é praticar lógica de programação e os principais conceitos da lin
 
 poo/
 - exercicio-funcionario
+- exercicio-membrosStatic
 
 Novos exercícios serão adicionados conforme o avanço nos estudos.
 
