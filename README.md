@@ -17,7 +17,8 @@ poo/
 - exercicio-funcionario
 - exercicio-membrosStatic
 - exercicio-Product-stock
-- exercicio-ContaBancaria 
+- exercicio-ContaBancaria
+- exercicio-Array-Product
 
 Novos exercícios serão adicionados conforme o avanço nos estudos.
 
